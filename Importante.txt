@@ -1,0 +1,7 @@
+Profe tuve un problema cuando ejecuto el programa al conectar mi programa a mi base de datos
+en la aplicacion me muestra un error sobre el require
+En una clase mustra como resolverlo.
+Bueno mas bien Kevin muestra la forma en el que el lo resolvio ese problema,
+lo hice asi como mi conpañero Kevin y no se resuleve.
+Desde el sabado intente conctarme con usted por correo pero no se cual es su correo :(
+Solo me faltaba cocnectar la base de datos y hacer que se actualize y la tabla....
